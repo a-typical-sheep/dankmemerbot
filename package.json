@@ -1,0 +1,22 @@
+{
+  "name": "dankmemerbot",
+  "version": "1.0.0",
+  "description": "Just a little test :)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"no file specified\" && exit=1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "puppeteer"
+  ],
+  "author": "Harshilia",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^2.1.1"
+  }
+}
